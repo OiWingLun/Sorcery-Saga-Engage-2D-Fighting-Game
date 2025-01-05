@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 72be08b6a4efad941acf8a3f7b523b88
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - musicSource: {instanceID: 0}
+  - SFXSource: {instanceID: 0}
+  - background: {instanceID: 0}
+  - ClickButton: {instanceID: 0}
+  - Back: {instanceID: 0}
+  - ChooseYourCharacter: {fileID: 8300000, guid: 4114061ce7fef9645b51684494d00079, type: 3}
+  - Round1: {instanceID: 0}
+  - Round2: {instanceID: 0}
+  - FinalRound: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

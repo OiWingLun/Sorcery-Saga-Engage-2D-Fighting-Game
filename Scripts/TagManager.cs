@@ -1,0 +1,80 @@
+    public class AnimationTags {
+        public const string Walk = "speed";
+        public const string BackWard_Bool = "backward";
+        public const string Jumping_Bool = "jump";
+        public const string Punch1_Trigger = "punch1";
+        public const string Punch2_Trigger = "punch2";
+        public const string Kick1_Trigger = "kick1";
+        public const string Kick2_Trigger = "kick2";
+        public const string Special1_Trigger = "special1";
+        public const string Special2_Trigger = "special2";
+        public const string Special3_Trigger = "special3";
+        public const string SwaySword3_Trigger = "swaysword3";
+        public const string SwaySword4_Trigger = "swaysword4";
+        public const string JumpAttack1_Bool = "jumpattack1";
+        public const string JumpAttack2_Bool = "jumpattack2";
+        public const string JumpAttack3_Bool = "jumpattack3";
+        public const string Crouch_Trigger = "crouch";
+        public const string CrouchAttack1_Bool = "crouchattack1";
+        public const string CrouchAttack2_Bool = "crouchattack2";
+        public const string Hurt_Trigger = "hurt";
+        public const string Block_Trigger = "block";
+        public const string Die_Bool = "die";
+    }
+    public class Axis {
+        public const string Horizontal_Axis = "Horizontal";    
+        public const string Horizontal2P_Axis = "Horizontal2P";
+    }
+
+    public class Tags {
+        public const string Player_Tag = "Player";
+        public const string Enemy_Tag = "Enemy";
+        public const string Ground = "Ground";
+        public const string Punch_Attack_Tag = "PunchAttacker";
+        public const string Kick_Attack_Tag = "KickAttacker";
+        public const string Special1_Attack_Tag = "Special1Attacker";
+        public const string Special2_Attack_Tag = "Special2Attacker";
+        public const string Special3_Attack_Tag = "Special3Attacker";
+        public const string SwaySword1_Attack_Tag = "SwaySword1Attacker";
+        public const string SwaySword2_Attack_Tag = "SwaySword2Attacker";
+        public const string JumpAttack1_Attack_Tag = "JumpAttack1Attacker";
+        public const string JumpAttack2_Attack_Tag = "JumpAttack2Attacker";
+        public const string JumpAttack3_Attack_Tag = "JumpAttack3Attacker";
+        public const string CrouchAttack1_Attack_Tag = "CrouchAttacker1";
+        public const string CrouchAttack2_Attack_Tag = "CrouchAttacker2";
+        public const string Left_Health_Bar = "LeftHealthBar";
+        public const string Right_Health_Bar = "RightHealthBar";
+        public const string Left_Block_Bar = "LeftBlockBar";
+        public const string Right_Block_Bar = "RightBlockBar";
+        public const string AierPunch_Attack_Tag = "AierPunchAttacker";
+        public const string AierKick_Attack_Tag = "AierKickAttacker";
+        public const string AierSpecial1_Attack_Tag = "AierSpecial1Attacker";
+        public const string AierSpecial2_Attack_Tag = "AierSpecial2Attacker";
+        public const string AierJumpAttack1_Attack_Tag = "AierJumpAttacker1";
+        public const string AierJumpAttack2_Attack_Tag = "AierJumpAttacker2";
+        public const string AierCrouchAttacker1_Attack_Tag = "AierCrouchAttacker1";
+        public const string AierCrouchAttacker2_Attack_Tag = "AierCrouchAttacker2";
+        public const string HaiyinPunch_Attack_Tag = "HaiyinPunchAttacker";
+        public const string HaiyinKick_Attack_Tag = "HaiyinKickAttacker";
+        public const string HaiyinSpecial1_Attack_Tag = "HaiyinSpecial1Attacker";
+        public const string HaiyinSpecial2_Attack_Tag = "HaiyinSpecial2Attacker";
+        public const string HaiyinJumpAttack1_Attack_Tag = "HaiyinJumpAttacker1";
+        public const string HaiyinJumpAttack2_Attack_Tag = "HaiyinJumpAttacker2";
+        public const string HaiyinCrouchAttacker1_Attack_Tag = "HaiyinCrouchAttacker1";
+        public const string HaiyinCrouchAttacker2_Attack_Tag = "HaiyinCrouchAttacker2";
+        public const string CeciliaPunch_Attack_Tag = "CeciliaPunchAttacker";
+        public const string CeciliaKick_Attack_Tag = "CeciliaKickAttacker";
+        public const string CeciliaSpecial1_Attack_Tag = "CeciliaSpecial1Attacker";
+        public const string CeciliaJumpAttack1_Attack_Tag = "CeciliaJumpAttacker1";
+        public const string CeciliaJumpAttack2_Attack_Tag = "CeciliaJumpAttacker2";
+        public const string CeciliaCrouchAttacker1_Attack_Tag = "CeciliaCrouchAttacker1";
+        public const string CeciliaCrouchAttacker2_Attack_Tag = "CeciliaCrouchAttacker2";
+        public const string P2Punch_Attack_Tag = "P2PunchAttacker";
+        public const string P2Kick_Attack_Tag = "P2KickAttacker";
+        public const string P2CeciliaPunch_Attack_Tag = "P2CeciliaPunchAttacker";
+        public const string P2CeciliaKick_Attack_Tag = "P2CeciliaKickAttacker";
+        public const string P2AierPunch_Attack_Tag = "P2AierPunchAttacker";
+        public const string P2AierKick_Attack_Tag = "P2AierKickAttacker";
+        public const string P2HaiyinPunch_Attack_Tag = "P2HaiyinPunchAttacker";
+        public const string P2HaiyinKick_Attack_Tag = "P2HaiyinKickAttacker"; 
+    }
