@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Audio
+  - Enemy
+  - PunchAttacker
+  - KickAttacker
+  - LeftHealthBar
+  - RightHealthBar
+  - SwaySword1Attacker
+  - SwaySword2Attacker
+  - JumpAttack1Attacker
+  - SwaySword3Attacker
+  - JumpAttack2Attacker
+  - Special1Attacker
+  - Special2Attacker
+  - AierSpecial4
+  - AierPunchAttacker
+  - AierKickAttacker
+  - AierSpecial1Attacker
+  - AierSpecial2Attacker
+  - AierJumpAttacker1
+  - AierJumpAttacker2
+  - AierCrouchAttacker1
+  - AierCrouchAttacker2
+  - CrouchAttacker1
+  - CrouchAttacker2
+  - HaiyinPunchAttacker
+  - HaiyinSpecial1Attacker
+  - HaiyinJumpAttacker1
+  - HaiyinJumpAttacker2
+  - HaiyinCrouchAttacker1
+  - HaiyinCrouchAttacker2
+  - HaiyinKickAttacker
+  - CeciliaPunchAttacker
+  - CeciliaKickAttacker
+  - CeciliaSpecial1Attacker
+  - CeciliaJumpAttacker1
+  - CeciliaJumpAttacker2
+  - CeciliaCrouchAttacker1
+  - CeciliaCrouchAttacker2
+  - P2PunchAttacker
+  - P2KickAttacker
+  - P2HaiyinPunchAttacker
+  - P2HaiyinKickAttacker
+  - P2CeciliaPunchAttacker
+  - P2CeciliaKickAttacker
+  - P2AierPunchAttacker
+  - P2AierKickAttacker
+  - HaiyinSpecial2Attacker
+  - LeftBlockBar
+  - RightBlockBar
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Wall
+  - Player
+  - Enemy
+  - Menu
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 1588780859
+    locked: 0
+  - name: character
+    uniqueID: 2797761835
+    locked: 0
+  - name: ui
+    uniqueID: 766288475
+    locked: 0
+  - name: effect
+    uniqueID: 669203573
+    locked: 0
